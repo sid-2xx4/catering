@@ -1,0 +1,166 @@
+.second{
+  padding-top: 80px ;
+  padding-left: 140px;
+  padding-bottom: 80px;
+}
+.table-img{
+ border-radius: 4px;
+ width: 500px;
+ opacity: 0.75;
+
+}
+.div-1{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.abt-cat{
+font-size: 35px;
+font: weight 12px;
+letter-spacing: 5px;
+padding-left: 115px;
+padding-top: 55px;
+}
+
+.stat{
+  font-size: 18px;
+  letter-spacing: 5px;
+  padding-left: 135px;
+  padding-top: 10px;
+  
+}
+ .para-1{
+  padding-right: 140px;
+  padding-top: 5px;
+  padding-left: 25px;
+  font-size: 18px;
+  line-height: 27px;
+ }
+
+ .seasonal{
+  background-color:rgb(231, 227, 227);
+  padding: 3px 3px 4px 4px;
+ }
+
+ .para1-1{
+  padding-right: 140px;
+  padding-left: 25px;
+  font-size: 18px;
+  line-height: 27px;
+  color:#757575;
+ }
+
+ .menu{
+  font-size: 35px;
+font: weight 12px;
+letter-spacing: 5px;
+padding-left: 280px;
+padding-top: 70px;
+ }
+
+ .menuh{
+  font-size: 20px;
+  letter-spacing: 5px;
+  padding-left: 140px;
+  padding-top: 10px;
+ }
+
+ .subh{
+  padding-left: 140px;
+  color: #757575;
+  font-size: 15.5px;
+ }
+
+
+.third{
+  padding-top: 80px ;
+ padding-right: 129px;
+padding-bottom: 80px;
+padding-left: 22px;
+
+}
+.table-img2{
+  opacity: 0.75;
+  border-radius: 4px;
+}
+
+.contact{
+ padding-left: 140px;
+ font-size: 35px;
+ font: weight 12px;
+ letter-spacing: 5px;
+ padding-top: 80px;
+ padding-bottom: 25px;
+  
+}
+
+.close{
+  padding-left: 140px;
+  line-height: 20px;
+ padding-right: 120px;
+ font-size: 15.3px;
+}
+
+
+.address{
+ margin-top: 19px ;
+padding-left: 140px;
+font-size: larger;
+font-weight: bolder;
+padding-bottom: 6px;
+color: rgb(96, 125, 139);
+}
+
+.con-form{
+  padding-left: 140px;
+  padding-top: 30px;
+  border: none;
+}
+
+
+.form-design{
+  padding-top: 19px;
+  padding-bottom: 19px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  padding-left: 5px;
+  padding-right: 1000px;
+  border: none;
+}
+ 
+.button-design{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  border: none;
+  padding: 12px 12px 12px 12px;
+
+}
+
+.button-design:hover{
+  background-color: #ccc;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.foot{
+  background-color:#f1f1f1;
+  height: 110px;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.sid{
+  text-decoration: underline;
+  align-items: center;
+  margin-left: 3px;
+}
+
+.sid:hover{
+  color: green;
+  cursor: pointer;
+  transition: 0.15s;
+}

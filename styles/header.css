@@ -1,0 +1,71 @@
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 61px;
+  background-color: white;
+  z-index: 100;
+  box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+.header{
+display:flex;
+flex-direction: row;
+flex: 1;
+}
+
+
+.cat{
+  display: flex;
+  flex: 1;
+  align-items: center; 
+  justify-content:start; 
+}
+.singhs{
+  text-decoration: none;
+  color:black;
+  letter-spacing: 5px;
+  margin-left: 36px;
+  padding: 13px 12px 12px 12px;
+}
+
+.navigate{
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: end;
+}
+
+.about{
+  text-decoration: none;
+  color: black;
+  letter-spacing: 4px;
+  margin-right: 10px;
+  padding: 9px 9px 12px 12px;
+}
+
+.me{
+  text-decoration: none;
+  color: black;
+  letter-spacing: 4px;
+  margin-right: 10px;
+  padding: 9px 9px 12px 12px;
+
+}
+
+.cont{
+  text-decoration: none;
+  float: right;
+   color: black;
+   margin-right: 30px;
+   letter-spacing: 4px;
+   padding: 9px 9px 12px 12px;
+}
+
+.singhs:hover,.about:hover,
+.cont:hover,.me:hover{
+  background-color: #ccc;
+  transition: 0.15s;
+}
+

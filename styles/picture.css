@@ -1,0 +1,19 @@
+.burger{
+  max-width: 100%;
+}
+
+.home-img{
+  display: flex;
+  flex: 1;
+  position: relative;
+}
+
+.write-image{
+  position: absolute;
+  bottom: 27px;
+  left: 25px;
+  letter-spacing: 5px;
+  font-size: 38px;
+  color: rgb(100, 100, 100);
+}
+
